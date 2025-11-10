@@ -1,6 +1,5 @@
-# Building Cart Pilot: A Multi-Agent AI Shopping Assistant with Google ADK and A2A Protocol
+# Cart Pilot: A Multi-Agent AI Shopping Assistant with Google ADK and A2A Protocol
 
-*How we built a conversational e-commerce platform using Google's Agent Development Kit, Agent-to-Agent Protocol, and Google Cloud Platform*
 
 ---
 
